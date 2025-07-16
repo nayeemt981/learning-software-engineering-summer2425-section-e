@@ -6,3 +6,8 @@ LAB 1 ACTIVITY
 5:new file open then right click gitbash open 
 6:then copy link paste
 7:git hub hide file open
+8:git staus check (git status)
+9:git add (git add lab1.txt)
+10:git commit(git commit -m "first commit")
+11:push
+
