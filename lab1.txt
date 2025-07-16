@@ -1,0 +1,8 @@
+LAB 1 ACTIVITY
+1:github login
+2:repository create
+3:repository link copy
+4:new file create on pc
+5:new file open then right click gitbash open 
+6:then copy link paste
+7:git hub hide file open
